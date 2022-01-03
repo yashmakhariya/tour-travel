@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "sg2plzcpnl471131.prod.sin2.secureserver.net",
+  "port": 465,
+  "username": "info@jgcampsandresorts.com",
+  "password": "info@jg",
+  "recipientEmail": "info@jgcampsandresorts.com"
+}
